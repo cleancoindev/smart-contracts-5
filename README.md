@@ -4,9 +4,7 @@ EtherMium DEX is built on 2 smart contracts
 
 ## Main Exchaneg Contract
 
-Contract address: `0xa5CC679A3528956E8032df4F03756C077C1eE3F4`
-
-EtherScan Link: [a link](https://etherscan.io/address/0xa5CC679A3528956E8032df4F03756C077C1eE3F4)
+Contract address: `0xa5CC679A3528956E8032df4F03756C077C1eE3F4` [Etherscan Link](https://etherscan.io/address/0xa5CC679A3528956E8032df4F03756C077C1eE3F4)
 
 This contract manages user balances and performs trades. Users deposit funds to this contract in order to trade. Check the contract file for a detailed overview.
 
@@ -14,8 +12,6 @@ This contract manages user balances and performs trades. Users deposit funds to 
 
 ## Affiliate List Contract
 
-Contract address: `0x7f373B93464D093671469Be3E4f06a06c3c3A7cAz`
-
-EtherScan Link: [a link](https://etherscan.io/address/0x7f373B93464D093671469Be3E4f06a06c3c3A7cA)
+Contract address: `0x7f373B93464D093671469Be3E4f06a06c3c3A7cAz` [Etherscan Link](https://etherscan.io/address/0x7f373B93464D093671469Be3E4f06a06c3c3A7cA)
 
 This contract stores the list of affiliates and their referals. Affiliates are recorded fromt he main contract, therefore no action needs to be taken on this contract directly.
